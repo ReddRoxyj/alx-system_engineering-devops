@@ -1,1 +1,1 @@
-0x00. Shell, basics
+ALX 0x00. Shell, basics full stack
